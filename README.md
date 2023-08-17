@@ -1,6 +1,14 @@
-# xChenNing
 
-![README](README.jpg)
+
+<div style="display:flex">
+    <div style="flex:1; margin-right: 20px;">
+        ![README](README.jpg)
+    </div>
+    <div style="flex:1">
+        # xChenNing
+    </div>
+</div>
+
 
 <!--
 **CheNing233/CheNing233** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
