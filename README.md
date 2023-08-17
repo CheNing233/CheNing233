@@ -1,6 +1,6 @@
-<center> # xChenNing </center>
+# xChenNing
 
-<center> ![README](README.jpg) </center>
+![README](README.jpg)
 
 
 <!--
