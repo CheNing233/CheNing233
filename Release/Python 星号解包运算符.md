@@ -3,13 +3,18 @@ title: Python 星号解包运算符
 id: 8adbf4fe-e6e0-42ac-b8f7-5fe1eb1057be
 date: 2024-07-17 16:34:37
 auther: xchenning
-cover: 
+cover: ""
 excerpt: 解包运算符 在python里，星号就是解包的意思。 比如： def func(*args)	a, b, c = *argsfunc(1, 2, 3) 在上述例子中， 整个*arg这个东西就是1, 2, 3 那arg自然就是没有被解包之前的，因此arg就是打包的(1, 2, 3) 继续解释，
 permalink: /archives/python-xing-hao-jie-bao-yun-suan-fu
 categories:
- - bian-cheng
-tags: 
- - python
+  - 编程
+tags:
+  - Python
+slug: python-xing-hao-jie-bao-yun-suan-fu
+halo:
+  site: https://blog.glcn.top/
+  name: 5ea3410f-c804-4ee7-a1f5-2abc9c56d201
+  publish: true
 ---
 
 # 解包运算符

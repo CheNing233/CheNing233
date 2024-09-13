@@ -9,11 +9,11 @@ tags:
   - Stable-Diffusion
   - React
   - ArcoDesign
+excerpt: 免费 AI 绘图平台，自建，https://wa.glcn.top/
 halo:
   site: https://blog.glcn.top/
-  name: 37f1c6a0-69cb-48dc-a8bd-0a5a0f240d90
-  publish: false
-excerpt: 免费 AI 绘图平台，自建，https://wa.glcn.top/
+  name: 4ee9fd89-1dbe-45d8-9950-78f4d89f2b01
+  publish: true
 ---
 # 免费 AI 绘图平台
 

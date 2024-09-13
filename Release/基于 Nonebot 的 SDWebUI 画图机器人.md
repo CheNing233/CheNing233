@@ -1,15 +1,19 @@
 ---
 title: 基于 Nonebot 的 SDWebUI 画图机器人
-id: 6abb08db-284e-4a3d-9981-ee56eda26353
 date: 2024-07-17 21:25:11
 auther: xchenning
-cover: 
+cover: ""
 excerpt: 基于Nonebot的Stable-diffusion-webui的画图机器人，支持QQ、飞书等，该项目已归档，转为开发 wa.xcning.top 前端AI生成平台
 permalink: /archives/ji-yu-nonebot-de-sdwebui-hua-tu-ji-qi-ren
 categories:
- - jie-jue-fang-an
-tags: 
- - python
+  - 解决方案
+tags:
+  - Python
+slug: ji-yu-nonebot-de-sdwebui-hua-tu-ji-qi-ren
+halo:
+  site: https://blog.glcn.top/
+  name: 8c157062-8a79-41fb-991a-29bd86888afb
+  publish: true
 ---
 
 # 基于Nonebot的Stable-diffusion-webui的画图机器人解决方案
@@ -45,9 +49,7 @@ Telegram平台暂未适配
 ## 适用于QQ的签名服务器
 
 > 获取QQSign参数通过Unidbg，开放HTTP API
-
-!!! warning "危险"
-	该方法虽然让消息能正常发出，但增大了被冻号的风险（非常大）
+> 该方法虽然让消息能正常发出，但增大了被冻号的风险（非常大）
 
 有公共API，这边建议自己搭建，貌似不难，重要的是防止信息泄露
 

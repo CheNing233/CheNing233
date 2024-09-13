@@ -1,15 +1,20 @@
 ---
-title: Docker 基础
+title: Docker 避坑
 id: 371f87f7-3512-4c34-8795-b05c06bc9cc5
 date: 2024-07-17 16:45:21
 auther: xchenning
-cover: 
-excerpt: Docker 的一般用法
+cover: ""
+excerpt: Docker 的一般避坑
 permalink: /archives/ji-chu
 categories:
- - rong-qi-hua
-tags: 
- - docker
+  - 容器化
+tags:
+  - Docker
+slug: docker-bi-keng
+halo:
+  site: https://blog.glcn.top/
+  name: 2269e4ac-eefe-4984-9088-27501fe3a200
+  publish: true
 ---
 
 

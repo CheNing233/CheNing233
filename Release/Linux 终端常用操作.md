@@ -3,14 +3,19 @@ title: Linux 终端常用操作
 id: 21f4075e-8ed2-48a1-b977-3a7eddf92b24
 date: 2024-07-17 12:37:41
 auther: xchenning
-cover: 
-excerpt: 常用操作 文件控制 找 列出文件 # 正常ls ./# 列出隐藏文件ls -a ./# 列出文件属性ls -l ./ 进 示例：在当前目录下进入名为"docs"的目录 cd ./docs 示例：使用绝对路径进入名为"docs"的目录 <
+cover: ""
+excerpt: 常用操作 文件控制 找 列出文件
 permalink: /archives/linux-zhong-duan-chang-yong-cao-zuo
 categories:
- - linux
-tags: 
- - linux
- - chang-yong-cao-zuo
+  - Linux
+tags:
+  - Linux
+  - 常用操作
+slug: linux-zhong-duan-chang-yong-cao-zuo
+halo:
+  site: https://blog.glcn.top/
+  name: fbc2ff0e-4c56-482c-9094-47b5e9432303
+  publish: true
 ---
 
 # 常用操作

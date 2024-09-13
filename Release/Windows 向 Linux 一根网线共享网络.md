@@ -3,14 +3,19 @@ title: Windows 向 Linux 一根网线共享网络
 id: 3368ac3b-5c0c-4711-8771-b3f449b4e74c
 date: 2024-08-15 16:27:04
 auther: xchenning
-cover: 
+cover: ""
 excerpt: Windows 和 Linux 网线互联，设置两台机同一个局域网，并共享 Windows 的网络
 permalink: /archives/windows-xiang-linux-gong-xiang-wang-luo
 categories:
- - wen-ti-chu-li
-tags: 
- - linux
- - chang-yong-cao-zuo
+  - 问题处理
+tags:
+  - Linux
+  - 常用操作
+slug: windows-xiang-linux-yi-gen-wang-xian-gong-xiang-wang-luo
+halo:
+  site: https://blog.glcn.top/
+  name: 174a8ba3-243e-42ea-af7c-bccaea4ae523
+  publish: true
 ---
 
 # Windows 向 Linux 一根网线共享网络

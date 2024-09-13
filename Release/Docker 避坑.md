@@ -3,13 +3,18 @@ title: Docker 避坑
 id: 5874adff-a153-4bc3-98de-9ebd83de6429
 date: 2024-07-17 18:21:30
 auther: xchenning
-cover: 
+cover: ""
 excerpt: Docker 的一般避坑
 permalink: /archives/docker-bi-keng
 categories:
- - rong-qi-hua
-tags: 
- - docker
+  - 容器化
+tags:
+  - Docker
+slug: docker-bi-keng
+halo:
+  site: https://blog.glcn.top/
+  name: 8b119c3b-fcbc-4709-a58d-83f593ad34cb
+  publish: true
 ---
 
 ## WSL2上面build的镜像转移到Linux会出现GPU驱动问题

@@ -3,13 +3,18 @@ title: Python 装饰器
 id: da2b2a9f-f496-46c2-bc31-55ce3f3842be
 date: 2024-07-17 16:35:22
 auther: xchenning
-cover: 
+cover: ""
 excerpt: 装饰器 def StdExceptionHandler(func)	def wrapper(*args, **kwargs)		try			return func(*args, **kwargs)		except Exception as e			logger.error
 permalink: /archives/python-zhuang-shi-qi
 categories:
- - bian-cheng
-tags: 
- - python
+  - 编程
+tags:
+  - Python
+slug: python-zhuang-shi-qi
+halo:
+  site: https://blog.glcn.top/
+  name: 5839f0b7-24f1-4410-b63e-fde374f1dd71
+  publish: true
 ---
 
 # 装饰器

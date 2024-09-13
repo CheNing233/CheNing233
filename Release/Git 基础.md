@@ -3,13 +3,18 @@ title: Git 基础
 id: 3c45c7c3-6d3a-45a9-bb4b-c6bb4ff81f70
 date: 2024-07-17 16:30:55
 auther: xchenning
-cover: 
+cover: ""
 excerpt: 查看 查看远程仓库URL git remote -v 查看分支追踪关系 git branch -r 添加 添加远程仓库 git remote add <仓库别名> <仓库URL> 推送 普通推送
 permalink: /archives/git-ji-chu
 categories:
- - xiang-mu-kong-zhi
-tags: 
- - git
+  - 项目控制
+tags:
+  - Git
+slug: git-ji-chu
+halo:
+  site: https://blog.glcn.top/
+  name: bc53dc83-0065-479a-a792-8d90aeaf43b0
+  publish: true
 ---
 
 

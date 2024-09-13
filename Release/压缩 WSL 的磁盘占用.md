@@ -3,14 +3,19 @@ title: 压缩 WSL 的磁盘占用
 id: f1a96142-bb50-478b-a845-46b1e046ca7e
 date: 2024-08-27 15:34:05
 auther: xchenning
-cover: 
+cover: ""
 excerpt: 压缩 WSL 虚拟磁盘的占用空间
 permalink: /archives/ya-suo-wsl-de-ci-pan-zhan-yong
 categories:
- - wen-ti-chu-li
-tags: 
- - docker
- - wsl
+  - 问题处理
+tags:
+  - Docker
+  - WSL
+slug: ya-suo-wsl-de-ci-pan-zhan-yong
+halo:
+  site: https://blog.glcn.top/
+  name: 19735215-52dc-4717-b780-d674ff5485fb
+  publish: true
 ---
 
 最近磁盘满了，拿个工具一查，发现WSL虚拟磁盘占了177G，想起上次建SD镜像，一建就是20G一个，还建了好几个，把这些镜像清理了之后，WSL虚拟磁盘并不会自动缩水。

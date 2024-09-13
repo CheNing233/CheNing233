@@ -6,11 +6,11 @@ categories:
   - 问题处理
 tags:
   - Powershell
+excerpt: 解除 Powershell 运行脚本限制，运行 set-executionpolicy remotesigned 即可
 halo:
   site: https://blog.glcn.top/
-  name: 842848a1-4b39-4090-8d21-ae6a4cf73c2b
-  publish: false
-excerpt: 解除 Powershell 运行脚本限制，运行 set-executionpolicy remotesigned 即可
+  name: ebcc759d-532d-4590-8664-0275c943b1e0
+  publish: true
 ---
 # 解除 Powershell 运行脚本限制
 

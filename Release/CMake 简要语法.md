@@ -3,14 +3,19 @@ title: CMake 简要语法
 id: d7c19fe5-3122-4931-9def-0fe4dd7d9b34
 date: 2024-07-17 16:28:02
 auther: xchenning
-cover: 
-excerpt: CMake https//subingwen.cn/categories/CMake/ 注释 # 注释#[[012多行的]] 项目 # 需求版本cmake_minimum_required(VERSION 3.0)# 声明项目名project(	<PROJECT-NAME
+cover: ""
+excerpt: CMake https//subingwen.cn/categories/CMake/ 注释
 permalink: /archives/cmake-jian-yao-yu-fa
 categories:
- - bian-cheng
-tags: 
- - c
- - cpp
+  - 编程
+tags:
+  - C
+  - Cpp
+slug: cmake-jian-yao-yu-fa
+halo:
+  site: https://blog.glcn.top/
+  name: 1f0c4722-5b6a-4e47-b725-9e08f465d583
+  publish: true
 ---
 
 # CMake

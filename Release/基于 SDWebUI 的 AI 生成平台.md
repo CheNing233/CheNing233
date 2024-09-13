@@ -3,17 +3,22 @@ title: 基于 SDWebUI 的 AI 生成平台
 id: c00db456-791b-42e6-98b4-c37c429fc8b8
 date: 2024-07-17 23:47:07
 auther: xchenning
-cover: 
+cover: ""
 excerpt: 基于 stable-diffusion-webui 的 AI 生成平台
 permalink: /archives/ji-yu-sdwebui-de-ai-sheng-cheng-ping-tai
 categories:
- - jie-jue-fang-an
-tags: 
- - python
- - docker
- - stable-diffusion
- - ai
- - k8s
+  - 解决方案
+tags:
+  - Python
+  - Docker
+  - Stable-Diffusion
+  - AI
+  - K8S
+slug: ji-yu-sdwebui-de-ai-sheng-cheng-ping-tai
+halo:
+  site: https://blog.glcn.top/
+  name: 0af7747b-f8bc-470e-8781-f3f3d0147390
+  publish: true
 ---
 
 # 基于 SDWebUI 的 AI 生成平台

@@ -3,14 +3,19 @@ title: 基于 Obsidian 的 Halo 快速内容发布
 id: b8939684-2840-4327-9f60-9d6d78e8f543
 date: 2024-07-17 22:11:04
 auther: xchenning
-cover: 
+cover: ""
 excerpt: 基于 obsidian、piclist、halo、docker、七牛云图床 的博客内容发布
 permalink: /archives/ji-yu-obsidian-de-halo-kuai-su-nei-rong-fa-bu
 categories:
- - jie-jue-fang-an
-tags: 
- - obsidian
- - halo
+  - 解决方案
+tags:
+  - Obsidian
+  - Halo
+slug: ji-yu-obsidian-de-halo-kuai-su-nei-rong-fa-bu
+halo:
+  site: https://blog.glcn.top/
+  name: 910ac1ae-23c5-4c0a-a273-3ebd4e7a7fc1
+  publish: true
 ---
 
 # 基于 Obsidian 的 Halo 快速内容发布
