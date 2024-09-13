@@ -4,7 +4,7 @@
 
 ## liKE Paper Girls
 
-Student, studying C/C++, Python, MCUs Embedded
+Student, studying React, Vue, Ts/Js, C/C++, Python, MCUs Embedded
 
 ## Blog
 
