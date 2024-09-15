@@ -1,3 +1,18 @@
+---
+title: 配置 NVM 管理的 Node.js
+slug: pei-zhi-nvm-guan-li-de-node.js
+cover: ""
+categories:
+  - 问题处理
+tags:
+  - NodeJs
+  - NVM
+halo:
+  site: https://blog.glcn.top/
+  name: f6f0bd74-039f-4829-a78d-34a6b77aa3d0
+  publish: true
+excerpt: 用 NVM  管理 NodeJs 版本
+---
 # 配置 NVM 管理的 Node.js
 
 换新系统，需要重新配置Node.js，故~~学习~~重走一遍坑
@@ -5,13 +20,22 @@
 ## 需求
 
 - 一台Windows电脑，建议可以开星穹列车、小飞机、小蹄子的那种
+- 或者一台Linux，一样建议可以开星穹列车、小飞机、小蹄子的那种
 - 要先卸载原来的nodejs
 
 ## 下载NVM
 
+- Windows
+
 https://github.com/coreybutler/nvm-windows/releases
 
 挑个`nvm-setup.exe`，下完安装
+
+- Linux
+```sh
+curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+source ~/.bashrc
+```
 
 ## 命令行启动
 
@@ -43,6 +67,11 @@ nvm install 16
 - 切换版本
 ```sh
 nvm use 16
+```
+
+- 查看已安装的版本
+```sh
+nvm ls
 ```
 
 （本文完）
