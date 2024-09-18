@@ -74,4 +74,12 @@ nvm use 16
 nvm ls
 ```
 
+## NPM 操作
+
+- 设置Proxy
+```sh
+npm config set proxy <你的代理>
+npm config set https-proxy <你的代理>
+```
+
 （本文完）
