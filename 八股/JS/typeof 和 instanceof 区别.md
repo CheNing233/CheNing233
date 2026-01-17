@@ -19,6 +19,8 @@ typeof [];           // "object"  （数组也是对象的一种）
 
 检测一个对象的原型链`__proto__`上有没有构造函数的`prototype`原型对象
 
+翻译：检查右边构造函数的原型是否出现在左边对象原型链上的任何一个位置
+
 ```js
 object instanceof constructor
 ```

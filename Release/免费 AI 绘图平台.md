@@ -1,7 +1,7 @@
 ---
 title: 免费 AI 绘图平台
 slug: mian-fei-ai-hui-tu-ping-tai
-cover: ""
+cover: https://img.glcn.top/piclist/1725921972458-e4ee74904ab84ca9961355fe968bf0cd.png
 categories:
   - 解决方案
 tags:
@@ -11,8 +11,8 @@ tags:
   - ArcoDesign
 excerpt: 免费 AI 绘图平台，自建，https://wa.glcn.top/
 halo:
-  site: https://blog.glcn.top/
-  name: 4ee9fd89-1dbe-45d8-9950-78f4d89f2b01
+  site: https://blog.glcn.top
+  name: e6a8725d-3ad4-4032-a0cc-3fd88a9f9967
   publish: true
 ---
 # 免费 AI 绘图平台

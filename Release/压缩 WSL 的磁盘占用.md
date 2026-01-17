@@ -3,7 +3,7 @@ title: 压缩 WSL 的磁盘占用
 id: f1a96142-bb50-478b-a845-46b1e046ca7e
 date: 2024-08-27 15:34:05
 auther: xchenning
-cover: ""
+cover: https://img.glcn.top/piclist/1724743702045-adc0192881c54f1b9e20ab1569c61fdd.png
 excerpt: 压缩 WSL 虚拟磁盘的占用空间
 permalink: /archives/ya-suo-wsl-de-ci-pan-zhan-yong
 categories:
@@ -13,8 +13,8 @@ tags:
   - WSL
 slug: ya-suo-wsl-de-ci-pan-zhan-yong
 halo:
-  site: https://blog.glcn.top/
-  name: 19735215-52dc-4717-b780-d674ff5485fb
+  site: https://blog.glcn.top
+  name: e5e6c85a-cc01-482b-bbef-2e9df203a881
   publish: true
 ---
 
@@ -32,7 +32,7 @@ halo:
 
 https://www.diskanalyzer.com/download
 
-![image.png](http://img.glcn.top/piclist/1724743702045-adc0192881c54f1b9e20ab1569c61fdd.png)
+![image.png](https://img.glcn.top/piclist/1724743702045-adc0192881c54f1b9e20ab1569c61fdd.png)
 
 一般叫ext4，可以去`C:\Users\<用户名>\AppData\Local\Docker\wsl\data`找找看
 

@@ -1,3 +1,5 @@
+这三函数都是为了绑定 this 用的，只有传参不同，可以实现合并参数
+
 ## .call
 
 ### 原理
@@ -100,7 +102,7 @@ Function.protoype.myApply = function(thisArg, args) {
 
 ### 代码
 
-#### call实现
+#### call 实现
 
 ```javascript
 // 将该函数绑定到原型上，接受其余的第一部分参数

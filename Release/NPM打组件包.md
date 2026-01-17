@@ -1,3 +1,21 @@
+---
+title: NPM打组件包
+slug: npmda-zu-jian-bao
+cover: ""
+categories:
+  - 前端
+  - 项目控制
+  - 编程
+tags:
+  - React
+  - Npm
+  - Vite
+  - TypeScript
+halo:
+  site: https://blog.glcn.top
+  name: d3ac9e6f-6602-4fed-8a01-6470ae8b163c
+  publish: true
+---
 ## 使用`vite + react + ts`
 
 - 先使用`create-vite`生成`vite + react + ts`架构的项目

@@ -1,19 +1,17 @@
 ---
 title: 解除 Powershell 运行脚本限制
 slug: jie-chu-powershell-yun-xing-jiao-ben-xian-zhi
-cover: ""
+cover: https://img.glcn.top/piclist/1725920003345-72eb183e969c43e68ea3938a8dea5fbf.png
 categories:
   - 问题处理
 tags:
   - Powershell
 excerpt: 解除 Powershell 运行脚本限制，运行 set-executionpolicy remotesigned 即可
 halo:
-  site: https://blog.glcn.top/
-  name: ebcc759d-532d-4590-8664-0275c943b1e0
+  site: https://blog.glcn.top
+  name: 6e8bb034-e76d-45a7-8dbf-09832fcd66ba
   publish: true
 ---
-# 解除 Powershell 运行脚本限制
-
 因为某游抽鼠结果出了三只猫，刚换新系统想导出抽卡记录，发现`.ps1`脚本被禁了，故学习怎么解除限制。
 
 ## 需求
@@ -62,17 +60,20 @@ x86的不能双击打开，必须要选到x64的路径才行
 ## 某游获取抽卡记录链接脚本
 
 - 某原
-```powershell
+
+```sh
 iex(irm 'https://img.lelaer.com/gf.ps1')
 ```
 
 - 某铁
-```powershell
+
+```sh
 Invoke-Expression (New-Object Net.WebClient).DownloadString( 'https://xingqiong-oss.oss-cn-hangzhou.aliyuncs.com/pc/down/s_gf.ps1')
 ```
 
 - 某绝
-```powershell
+
+```sh
 Invoke-Expression (New-Object Net.WebClient).DownloadString('https://xingqiong-oss.oss-cn-hangzhou.aliyuncs.com/pc/down/zzz_gf.ps1')
 ```
 

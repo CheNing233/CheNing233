@@ -1,18 +1,18 @@
 ---
 title: Webstorm 前端调试
 slug: webstorm-qian-duan-diao-shi
-cover: ""
+cover: https://img.glcn.top//piclist/1730487457802-f193db7a33b247ad9493820c64f825c5.png
 categories:
   - 问题处理
   - 前端
 tags:
   - NodeJs
   - Webstorm
-halo:
-  site: https://blog.glcn.top/
-  name: 274c0a82-4c4a-46f8-9f64-9fd3eb0ab9a5
-  publish: true
 excerpt: 添加一个JavaScript调试
+halo:
+  site: https://blog.glcn.top
+  name: f2ddafb1-702e-4c84-85fa-389e14a617d5
+  publish: true
 ---
 拒绝 console.log，从你我做起
 

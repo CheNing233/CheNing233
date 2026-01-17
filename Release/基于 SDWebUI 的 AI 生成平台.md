@@ -16,13 +16,10 @@ tags:
   - K8S
 slug: ji-yu-sdwebui-de-ai-sheng-cheng-ping-tai
 halo:
-  site: https://blog.glcn.top/
-  name: 0af7747b-f8bc-470e-8781-f3f3d0147390
+  site: https://blog.glcn.top
+  name: 016f93d6-ccb4-48ba-9fe0-aaa076750261
   publish: true
 ---
-
-# 基于 SDWebUI 的 AI 生成平台
-
 通过[stable-diffusion-webui](https://github.com/AUTOMATIC1111/stable-diffusion-webui)的`FastApi`提供的接口，调用sd进行画图等AI内容生成
 ## Release
 

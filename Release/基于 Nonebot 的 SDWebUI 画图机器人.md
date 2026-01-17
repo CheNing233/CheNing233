@@ -11,12 +11,10 @@ tags:
   - Python
 slug: ji-yu-nonebot-de-sdwebui-hua-tu-ji-qi-ren
 halo:
-  site: https://blog.glcn.top/
-  name: 8c157062-8a79-41fb-991a-29bd86888afb
+  site: https://blog.glcn.top
+  name: ee62a07a-b152-4d1b-b85e-f9e24bf35ccf
   publish: true
 ---
-
-# 基于Nonebot的Stable-diffusion-webui的画图机器人解决方案
 
 ~~博主闲来没事，写了一个涩图机器人插件，帮助同学们在厕所能够获得少许慰藉~~
 

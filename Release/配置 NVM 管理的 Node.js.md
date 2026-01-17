@@ -7,14 +7,12 @@ categories:
 tags:
   - NodeJs
   - NVM
-halo:
-  site: https://blog.glcn.top/
-  name: f6f0bd74-039f-4829-a78d-34a6b77aa3d0
-  publish: true
 excerpt: 用 NVM  管理 NodeJs 版本
+halo:
+  site: https://blog.glcn.top
+  name: 7894e706-7fbf-406f-b868-fccf2b0f83b1
+  publish: true
 ---
-# 配置 NVM 管理的 Node.js
-
 换新系统，需要重新配置Node.js，故~~学习~~重走一遍坑
 
 ## 需求
